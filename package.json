@@ -123,7 +123,7 @@
     "stylelint-scss": "^2.2.0",
     "url-loader": "^0.6.2",
     "webpack": "^3.10.0",
-    "webpack-dev-server": "^2.10.0",
+    "webpack-dev-server": "^3.1.11",
     "webpack-merge": "^4.1.1",
     "xhr-mock": "^1.9.1",
     "yargs": "^10.1.0"
